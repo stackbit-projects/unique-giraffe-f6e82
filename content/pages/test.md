@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: dasdasd
+  - title: asdasd
     subtitle: lorem-ipsum
     actions: []
     has_background: false
