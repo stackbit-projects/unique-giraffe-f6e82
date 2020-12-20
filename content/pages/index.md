@@ -45,7 +45,7 @@ sections:
           euismod lacinia.
         align: left
         image: images/feature.svg
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /features
