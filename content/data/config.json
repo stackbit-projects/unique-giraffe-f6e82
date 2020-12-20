@@ -31,7 +31,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/hornero infantil_Mesa de trabajo 1.png"
     },
     "footer": {
         "has_nav": true,
